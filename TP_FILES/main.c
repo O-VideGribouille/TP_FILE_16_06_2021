@@ -7,7 +7,7 @@ typedef struct ElementListe{
     struct ElementListe *p_suivant;
 }Element;
 
-typedef struct ListeChar{ //équivaut Liste_entier -----------
+typedef struct ListeChar{
     Element *fl_debut;
     Element *fl_fin;
     int n_taille;
@@ -46,7 +46,7 @@ int main()
         return 0;
     }
     //Initialisation des données
-    initFile(File); //dans l'exemple du tuto suite équivaut à mon FIle ---------
+    initFile(File);
 
 
     // Insertion d'un élément dans la file
