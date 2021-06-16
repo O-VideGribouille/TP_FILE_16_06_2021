@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623836157 source:c:\users\laboi\onedrive\documents\ludus_academie_2020-2021\algorithme\session3\tp_files\tp_files_16_06_2021\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
